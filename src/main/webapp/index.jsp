@@ -10,5 +10,6 @@
 <h1>Hans Kouemeko (devops trainer)</h1>
 <h2>Armel nnomoko(tutor)</h2>
 <h2>Enzo kamtchouang(tutor)</h2>
+    <h3>Welcome to our class</h3>
 </body>
 </html>
