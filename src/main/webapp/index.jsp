@@ -7,9 +7,6 @@
 <title>Hello world page</title>
 </head>
 <body>
-<h1>Hans Kouemeko (devops trainer)</h1>
-<h2>Armel nnomoko(tutor)</h2>
-<h2>Enzo kamtchouang(tutor)</h2>
-    <h3>Welcome to our class</h3>
+<h1>Hello welcome to the devops class</h1>
 </body>
 </html>
