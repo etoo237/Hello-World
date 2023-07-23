@@ -12,5 +12,6 @@
 <p>hans demande aux gens de faire les devoirs</p>
 <p>armel and the enzo are the tutors</p>
 <p>les gens commencent a voir la base de devops</p>
+<p>la programmation est facile</p>
 </body>
 </html>
