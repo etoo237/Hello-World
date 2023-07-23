@@ -8,5 +8,6 @@
 </head>
 <body>
 <h1>Hello welcome to our Devops class</h1>
+<h2>The devops trainer is Hans kouemeko</h2>
 </body>
 </html>
