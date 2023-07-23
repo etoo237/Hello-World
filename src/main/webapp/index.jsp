@@ -9,6 +9,7 @@
 <body>
 <h1>Hello welcome to our Devops class</h1>
 <h2>The devops trainer is Hans kouemeko</h2>
-<p>hans demadne aux gens de faire les devoirs</p>
+<p>hans demande aux gens de faire les devoirs</p>
+<p>armel and the enzo are the tutors</p>
 </body>
 </html>
