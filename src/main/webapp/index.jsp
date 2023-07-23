@@ -7,6 +7,6 @@
 <title>Hello world page</title>
 </head>
 <body>
-<h1>Hello welcome to the devops class</h1>
+<h1>Hello welcome to our devops class</h1>
 </body>
 </html>
