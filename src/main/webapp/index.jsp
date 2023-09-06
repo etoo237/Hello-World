@@ -16,5 +16,6 @@
 <p>merci pour votre attention les amis.............bonjour  </p>
 <p>bonsoir a tous </p>
 <p>michel we are happy to see you today </p>
+<p>good afternoon to you all </p>
 </body>
 </html>
