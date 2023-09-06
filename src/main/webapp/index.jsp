@@ -16,10 +16,11 @@
 <p>merci pour votre attention les amis.............bonjour  </p>
 <p>bonsoir a tous </p>
 <p>michel we are happy to see you today </p>
-<p>thanks for your attention but the class will not be very long today </p>
+
 
 <p>good afternoon to you all </p>
 <h1>this is our first ci/cd pipeline </h1>
+<h1>thanks for your attention but the class will not be very long today </h1>
 
 </body>
 </html>
