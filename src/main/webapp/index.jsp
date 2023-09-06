@@ -19,7 +19,7 @@
 <p>thanks for your attention but the class will not be very long today </p>
 
 <p>good afternoon to you all </p>
-<h2>this is our first ci/cd pipeline </h2>
+<h1>this is our first ci/cd pipeline </h1>
 
 </body>
 </html>
