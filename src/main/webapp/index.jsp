@@ -15,5 +15,6 @@
 <p>la programmation est facile mais il faut etudier</p>
 <p>merci pour votre attention les amis.............bonjour  </p>
 <p>bonsoir a tous </p>
+<p>michel we are happy to see you today </p>
 </body>
 </html>
